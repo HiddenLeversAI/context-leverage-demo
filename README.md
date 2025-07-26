@@ -120,7 +120,7 @@ This demo shows core functionality of the Context Leverage system. The full prod
 
 ## Getting Started with Context Leverage
 
-1. **Clone this demo** for learning and experimentation
+1. **Clone this demo** for learning and experimentation (NOT YET)
 2. **Customize contexts** with your brand voice and expertise
 3. **Adapt templates** for your content goals
 4. **Test repurposing patterns** with your existing content
