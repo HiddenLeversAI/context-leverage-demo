@@ -6,12 +6,18 @@
 
 This repository demonstrates how content creators can use context engineering to automate and scale their content creation process. See how strategic planning expert Erika transformed her content workflow from **6 hours per newsletter** down to **90 minutes**, while multiplying **1 piece of content into 5 different formats**.
 
-## Quick Start
+## 🚀 Quick Start
 
-1. **Study the Foundation Context**: Start with `01-foundation-context/erika-brand-voice.yaml` to see how brand voice and expertise are captured
-2. **Explore Templates**: Check `02-content-templates/` to see how templates inherit context and reduce creation time
-3. **See Repurposing in Action**: Review `03-repurposing-examples/` to understand content multiplication
-4. **Review Results**: Check `sample-outputs/` for real before/after metrics and example content
+**New to GitHub?** → Start with `00-getting-started/5-minute-setup.md` for a creator-friendly walkthrough
+
+**Ready to dive in?** Follow this path:
+1. **Fork this repository** (green button, top right) to create your own copy
+2. **Study the Foundation Context**: Start with `01-foundation-context/erika-brand-voice.yaml` to see how brand voice and expertise are captured
+3. **Explore Templates**: Check `02-content-templates/` to see how templates inherit context and reduce creation time
+4. **See Repurposing in Action**: Review `03-repurposing-examples/` to understand content multiplication
+5. **Review Results**: Check `sample-outputs/` for real before/after metrics and example content
+
+**Want to connect to AI tools?** → See `04-connection-guides/` for ChatGPT, Claude, and automation setup
 
 ## The Context Leverage System
 
@@ -33,9 +39,20 @@ This repository demonstrates how content creators can use context engineering to
 
 ```
 context-leverage-demo/
+├── 00-getting-started/        # 🚀 Creator-friendly setup guides
+│   ├── 5-minute-setup.md      # No-code setup walkthrough
+│   └── visual-guide/          # Screenshots and visual help
 ├── 01-foundation-context/     # Core brand voice & expertise capture
 ├── 02-content-templates/      # Reusable content frameworks
 ├── 03-repurposing-examples/   # Content multiplication patterns
+├── 04-connection-guides/      # 🔌 Connect to ChatGPT, Claude, automations
+│   ├── chatgpt-setup.md       # ChatGPT integration guide
+│   ├── claude-setup.md        # Claude setup and advanced features
+│   └── automation-integration.md # Zapier, Make.com, API examples
+├── 05-before-after-examples/  # 📊 Real transformation examples
+│   ├── mistake-examples.yaml  # Generic AI vs context-engineered
+│   └── success-transformations.md # Case studies with metrics
+├── 06-troubleshooting/        # 🔧 Common issues and solutions
 └── sample-outputs/            # Real results and examples
 ```
 
@@ -120,10 +137,22 @@ This demo shows core functionality of the Context Leverage system. The full prod
 
 ## Getting Started with Context Leverage
 
-1. **Clone this demo** for learning and experimentation (NOT YET)
+### For Creators (No Technical Skills Required):
+1. **Fork this repository** (creates your personal copy)
+2. **Follow the 5-minute setup** in `00-getting-started/`
+3. **Connect to your AI tools** using guides in `04-connection-guides/`
+4. **See the transformation** with examples in `05-before-after-examples/`
+
+### For Developers & Advanced Users:
+1. **Clone this demo** for learning and experimentation
 2. **Customize contexts** with your brand voice and expertise
 3. **Adapt templates** for your content goals
-4. **Test repurposing patterns** with your existing content
+4. **Integrate with automations** using `04-connection-guides/automation-integration.md`
+
+### Need Help?
+- **New to this?** → `00-getting-started/5-minute-setup.md`
+- **Having issues?** → `06-troubleshooting/common-issues.md`
+- **Want examples?** → `05-before-after-examples/`
 
 ## License & Usage
 
@@ -131,10 +160,22 @@ This demonstration repository is provided under the Content Leverage OS© Licens
 
 **Commercial Use**: For commercial licensing and full system access, visit [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/).
 
-## Support
+## Support & Community
 
+### Creator Support:
+- **Twitter/X**: [@csmikecardona](https://twitter.com/csmikecardona) - Quick questions and community updates
+- **LinkedIn**: [Mike Cardona](https://www.linkedin.com/in/mikeacardona/) - Professional discussions and case studies
+- **GitHub Discussions**: Use the Discussions tab above for detailed technical questions
+
+### Resources:
 - 📧 Questions about this demo: [robots@contentleverage.com](mailto:robots@contentleverage.com)
 - 🌐 Full system information: [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/)
 - 📖 Documentation: [docs.contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/)
+
+### When Asking for Help:
+1. **Include your repository URL** so others can see your setup
+2. **Share specific error messages** with exact text
+3. **Mention what you've already tried** from the troubleshooting guide
+4. **Tag with #ContextEngineering** on social media for community visibility
 
 ---
