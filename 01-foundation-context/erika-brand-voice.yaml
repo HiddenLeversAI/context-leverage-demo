@@ -1,0 +1,112 @@
+# DEMO: Context Leverage by Content Leverage OS©
+# This is a simplified example. Production contexts include 20+ parameters
+---
+context_type: brand_voice
+demo_version: true
+version: "1.0"
+created: "2024-01-15"
+
+# Personal Brand Identity
+brand_name: "Erika Chen"
+role: "Research Strategist & Executive Coach"
+expertise_focus: "Strategic Planning for Career Advancement"
+
+# Voice & Tone Parameters
+voice_characteristics:
+  primary_tone: "authoritative yet approachable"
+  secondary_tone: "data-driven and practical"
+  personality_traits:
+    - "analytical thinker"
+    - "results-oriented"
+    - "supportive mentor"
+    - "strategic visionary"
+  
+writing_style:
+  sentence_structure: "mix of short punchy statements and detailed explanations"
+  vocabulary_level: "professional but accessible"
+  use_of_data: "frequent statistics and research references"
+  storytelling: "brief case studies and client examples"
+  
+# Content Preferences  
+content_pillars:
+  - strategic_planning: 40%
+  - career_advancement: 30%
+  - leadership_development: 20%
+  - productivity_systems: 10%
+
+# Audience Targeting
+target_audience:
+  primary: "mid-level managers seeking executive roles"
+  secondary: "ambitious professionals in corporate environments"
+  pain_points:
+    - "feeling stuck in current role"
+    - "lack of strategic thinking skills"
+    - "unclear path to executive level"
+    - "overwhelmed by competing priorities"
+  
+goals_they_want:
+  - "clear advancement strategy"
+  - "executive presence"
+  - "strategic thinking skills"
+  - "leadership recognition"
+
+# Product Integration
+primary_offering:
+  name: "Success Plan Ebook"
+  description: "Strategic planning framework for career advancement"
+  price_point: "$47"
+  target_conversion: "newsletter subscribers to purchasers"
+  
+call_to_action_variations:
+  soft: "Want to learn more about strategic career planning?"
+  medium: "Ready to create your own Success Plan?"
+  strong: "Download the Success Plan Ebook and start your advancement journey today"
+
+# Platform Specifications
+platforms:
+  linkedin:
+    post_length: "1200-1500 characters"
+    hashtag_count: "3-5 strategic hashtags"
+    engagement_style: "question-based conclusions"
+    
+  newsletter:
+    length: "800-1200 words"
+    structure: "intro → case study → actionable tips → CTA"
+    frequency: "weekly"
+
+# Performance Context
+previous_metrics:
+  linkedin_peak: "30,000 views per post"
+  current_linkedin: "5,000 views per post"
+  newsletter_open_rate: "24%"
+  time_per_newsletter: "6 hours"
+  
+improvement_goals:
+  time_reduction: "85% (6 hours → 90 minutes)"
+  content_multiplication: "5x (1 piece → 5 pieces)"
+  engagement_recovery: "return to 25K+ LinkedIn views"
+  conversion_increase: "2x ebook sales from content"
+
+# Content Quality Standards
+quality_markers:
+  research_backing: "minimum 2 credible sources per piece"  
+  actionability: "at least 3 specific steps per article"
+  personal_touch: "include personal insight or client example"
+  strategic_depth: "connect tactics to bigger career picture"
+
+# Consistency Rules
+brand_consistency:
+  always_include:
+    - "strategic thinking perspective"
+    - "advancement-focused messaging"  
+    - "data or research support"
+    - "clear next steps for reader"
+  
+  never_include:
+    - "overly casual language"
+    - "unsubstantiated claims"
+    - "generic career advice"
+    - "content without strategic angle"
+
+# Demo Notes
+demo_disclaimer: "Simplified for demonstration purposes. Full production contexts include advanced personalization, A/B testing parameters, and performance optimization settings."
