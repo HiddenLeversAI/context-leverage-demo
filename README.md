@@ -39,6 +39,39 @@ context-leverage-demo/
 └── sample-outputs/            # Real results and examples
 ```
 
+## What is Context Engineering?
+
+**Context engineering** is the skill of carefully selecting and organizing the right information that AI needs to complete tasks effectively - without overwhelming it or missing important details.
+
+Think of it like this: Instead of just asking AI to "write me content" (basic prompting), context engineering is about giving the AI everything it needs to know - like showing a chef all the ingredients, recipe, kitchen tools, and dietary restrictions before asking them to cook.
+
+### Why Context Engineering Matters for Content Creators
+
+**Traditional AI content creation** (asking for content with simple prompts):
+- ❌ Generic, templated output that sounds robotic
+- ❌ Inconsistent brand voice across content pieces  
+- ❌ AI "hallucinations" and factual errors
+- ❌ Requires extensive editing and rewriting
+- ❌ Can't maintain expertise positioning
+
+**Context-engineered content creation**:
+- ✅ **76% reduction in AI mistakes** through proper context
+- ✅ **Consistent brand voice** across all content formats
+- ✅ **Expertise-level content** that positions you as an authority
+- ✅ **Ready-to-publish quality** with minimal editing
+- ✅ **Scalable systems** that work reliably every time
+
+### The Context Engineering Approach
+
+Instead of "vibe-based" content creation, this system provides AI with:
+
+1. **Complete Brand Context** - Your voice, expertise, audience, and positioning
+2. **Structured Templates** - Proven frameworks that inherit your brand context
+3. **Content Relationships** - How pieces connect and build on each other
+4. **Performance Data** - What works for your audience and metrics to optimize
+
+**The Result**: AI that creates content that sounds authentically like you, maintains your expertise positioning, and consistently engages your audience - because it has all the context it needs to succeed.
+
 ## About Erika (Demo User)
 
 - **Role**: Research Strategist
