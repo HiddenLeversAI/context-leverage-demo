@@ -230,4 +230,4 @@
 
 **Content Leverage OS© - Where Strategy Meets Scale**
 
-*For complete metrics dashboard and advanced analytics, visit [contentleverage.com](https://contentleverage.com)*
+*For complete metrics dashboard and advanced analytics, visit [https://www.hiddenlevers.ai/](https://www.hiddenlevers.ai/)*
