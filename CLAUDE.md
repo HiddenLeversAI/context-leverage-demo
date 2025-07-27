@@ -74,7 +74,7 @@ erika-brand-voice.yaml → newsletter-template.md → newsletter-to-social.yaml 
 
 This demo is provided under the Content Leverage OS© License for educational purposes only. See [LICENSE](LICENSE) for full terms.
 
-**For Production Use**: Visit [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/) for commercial licensing and full system access.
+**For More Resources**: Visit [hiddenlevers.ai/subscribe](https://hiddenlevers.ai/subscribe?utm_source=github&utm_medium=demo&utm_campaign=context_leverage) for additional context engineering resources.
 
 ---
 

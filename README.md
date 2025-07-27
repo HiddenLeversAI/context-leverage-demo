@@ -1,6 +1,6 @@
 # Context Leverage Demo
 
-> **DEMO DISCLAIMER**: This repository is for demonstration purposes only. It showcases the Context Leverage system from Content Leverage OS©. For production use and full system access, please visit [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/).
+> **DEMO DISCLAIMER**: This repository is for demonstration purposes only. It showcases the Context Leverage system from Content Leverage OS©.
 
 ## What This Demo Shows
 
@@ -158,7 +158,7 @@ This demo shows core functionality of the Context Leverage system. The full prod
 
 This demonstration repository is provided under the Content Leverage OS© License for educational purposes. See [LICENSE](LICENSE) for full terms.
 
-**Commercial Use**: For commercial licensing and full system access, visit [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/).
+**More Resources**: For additional context engineering resources, visit [hiddenlevers.ai/subscribe](https://hiddenlevers.ai/subscribe?utm_source=github&utm_medium=demo&utm_campaign=context_leverage).
 
 ## Support & Community
 
@@ -169,8 +169,8 @@ This demonstration repository is provided under the Content Leverage OS© Licens
 
 ### Resources:
 - 📧 Questions about this demo: [robots@contentleverage.com](mailto:robots@contentleverage.com)
-- 🌐 Full system information: [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/)
-- 📖 Documentation: [docs.contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/)
+- 🌐 More context engineering resources: [hiddenlevers.ai/subscribe](https://hiddenlevers.ai/subscribe?utm_source=github&utm_medium=demo&utm_campaign=context_leverage)
+- 📖 Additional Resources: [hiddenlevers.ai/subscribe](https://hiddenlevers.ai/subscribe?utm_source=github&utm_medium=demo&utm_campaign=context_leverage)
 
 ### When Asking for Help:
 1. **Include your repository URL** so others can see your setup

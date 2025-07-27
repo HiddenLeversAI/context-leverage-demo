@@ -230,4 +230,4 @@
 
 **Content Leverage OS© - Where Strategy Meets Scale**
 
-*For complete metrics dashboard and advanced analytics, visit [contentleverage.com](https://flourishing-stardust-05a9f2.netlify.app/)*
+*For more context engineering resources, visit [hiddenlevers.ai/subscribe](https://hiddenlevers.ai/subscribe?utm_source=github&utm_medium=demo&utm_campaign=context_leverage)*
