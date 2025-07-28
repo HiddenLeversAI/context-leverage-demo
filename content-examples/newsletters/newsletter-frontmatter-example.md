@@ -88,6 +88,15 @@ references:
   - title: "My 5-Step Copywriting Formula"
     author: "Justin Welsh"
     type: "example_content"
+    url: "https://www.justinwelsh.me/newsletter/my-favorite-copywriting-formula-that-anyone-can-use?utm_source=hiddenlevers.ai&utm_medium=referral&utm_campaign=reverse-engineer-top-content-into-reusable-templates"
+    relationship: "source_inspiration"
+
+related_resources:
+  - title: "5-Step Framework/System/Method Template - PAIPS"
+    type: "template"
+    platform: "Notion"
+    url: "https://leveragemedia.notion.site/5-Step-Framework-System-Method-Template-PAIPS-84bef9287c764d03bb594f6b0cf49c3c?pvs=4&utm_source=hiddenlevers.ai&utm_medium=referral&utm_campaign=reverse-engineer-top-content-into-reusable-templates"
+    access: "premium_resource"
 
 # Marketing & CTA
 membership_type: "HL Premium Membership"
@@ -104,6 +113,19 @@ disclosure: "Reader-supported creator, may earn affiliate share from links"
 platform: "Hidden Levers website"
 file_format: "web_article"
 original_source: "2024-10-25_reusable_content_templates_001.docx"
+
+# UTM & Traffic Attribution
+utm_campaign: "reverse-engineer-top-content-into-reusable-templates"
+traffic_sources:
+  - "hiddenlevers.ai referral to Justin Welsh newsletter"
+  - "hiddenlevers.ai referral to PAIPS template"
+outbound_links:
+  - destination: "justinwelsh.me"
+    type: "source_attribution"
+    tracked: true
+  - destination: "leveragemedia.notion.site"
+    type: "premium_resource"
+    tracked: true
 
 # Content Insights
 key_takeaways:
